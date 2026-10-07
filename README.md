@@ -29,8 +29,8 @@ sudo apt install libsfml-dev
 
 #### 2. Clone the repository  
 ```sh
-git clone https://github.com/greenbinjack/pirates-vs-predators.git
-cd pirate-vs-predators
+git clone https://github.com/subarnoneel/pirates-vs-predators.git
+cd pirates-vs-predators
 ```
 
 #### 3. Compile and Run the Game
@@ -38,6 +38,3 @@ cd pirate-vs-predators
 g++ *.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system
 ./game
 ```
-
-
-
